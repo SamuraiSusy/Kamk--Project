@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Health : MonoBehaviour
 {
-    private float hp = 15.0f;
+    private float hp = 16.0f;
 
     public void TakeDamage(float amount)
     {
